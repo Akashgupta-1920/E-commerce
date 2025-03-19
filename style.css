@@ -61,7 +61,7 @@ p {
 }
 
 .section-p1 {
-    padding: 40px 80px;
+    padding: 40px 150px;
 }
 
 .section-m1 {
@@ -94,7 +94,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 #navbar li {
